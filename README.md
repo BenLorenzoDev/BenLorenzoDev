@@ -1,145 +1,124 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:3b82f6&height=200&section=header&text=jude%20builds&fontSize=60&fontColor=fafafa&animation=fadeIn&fontAlignY=35&desc=AI%20is%20the%20tool.%20You're%20still%20the%20artist.&descSize=18&descAlignY=55)
+<!-- Animated Typing Header - Single line that cycles -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=700&lines=Building+the+bridge+between+AI+%26+human+connection;Voice+AI+systems+that+keep+humans+in+the+loop;Founder+of+TambayanPH+%E2%80%94+300%2B+automators+strong" alt="Typing SVG" /></a>
 
-[![Website](https://img.shields.io/badge/judetelan.com-0a0a0a?style=for-the-badge&logo=safari&logoColor=3b82f6)](https://judetelan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=3b82f6)](https://linkedin.com/in/jajbtelan)
-[![TikTok](https://img.shields.io/badge/TikTok-0a0a0a?style=for-the-badge&logo=tiktok&logoColor=3b82f6)](https://tiktok.com/@judetelan)
-[![Facebook](https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=3b82f6)](https://facebook.com/jajbtelan)
+<br><br>
 
 </div>
 
-<br>
+```yaml
+name: Ben Lorenzo
+location: Philippines 🇵🇭
+roles:
+  - Co-founder @ CallView AI
+  - Founder @ TambayanPH (300+ members)
 
-## Hey, I'm Jude
+current_focus: 
+  - Voice AI & VAPI implementations
+  - Human-in-the-loop calling systems
+  - Automation workflows that scale
 
+philosophy: "The best AI doesn't replace humans — it makes human connection easier."
 ```
-I make AI work with you, not instead of you.
-I shape these tools to amplify what you do, not replace you.
 
-AI-human integration. That's the game.
-```
+---
 
-<br>
-
-## Currently Building
+<div align="center">
+<h2>🚀 What I'm Building</h2>
+</div>
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%" valign="top">
 
-### 🎙️ CallView AI
-**Co-Founder** — Voice AI for businesses
+<h3 align="center">🎙️ CallView AI</h3>
 
-Small businesses miss 62% of calls. We fix that.
+<p align="center">
+<strong>Human-in-the-loop AI calling platform</strong>
+</p>
 
-→ 24/7 intelligent call handling
-→ Natural conversations
-→ Seamless human handoffs
+<p align="center">
+Transforming SDRs into AI coaches. Making outbound calls smarter without losing the human touch — because the best sales conversations still need a human heartbeat.
+</p>
 
-**[callview.ai](https://callview.ai)**
-
-</td>
-<td width="33%">
-
-### ☁️ Clear Skies Media Group
-**Founder** — Indie app studio
-
-Apps should solve real problems, not chase trends.
-
-→ Android apps with intentional features
-→ User-centered design
-→ Currently building: MyBayad
-
-**[clearskiesmediagroup.com](https://clearskiesmediagroup.com)**
+<p align="center">
+<a href="https://callview.ai/">
+<img src="https://img.shields.io/badge/Visit-callview.ai-6366f1?style=for-the-badge&logoColor=white" alt="CallView AI"/>
+</a>
+</p>
 
 </td>
-<td width="33%">
+<td width="50%" valign="top">
 
-### 🇵🇭 Tambayan PH
-**Co-Founder** — Automation agency
+<h3 align="center">🇵🇭 TambayanPH</h3>
 
-Filipino automation & software company building mission-critical systems.
+<p align="center">
+<strong>Filipino automation community</strong>
+</p>
 
-→ n8n workflows & custom software
-→ Training programs
-→ 24/7 Discord support
+<p align="center">
+A home for 300+ automation builders specializing in n8n workflows, CRM integrations, and AI-powered solutions. Showcasing Filipino talent to the global market — with 24/7 Discord support.
+</p>
 
-**[tambayanph.com](https://tambayanph.com)**
+<p align="center">
+<a href="https://tambayanph.com/">
+<img src="https://img.shields.io/badge/Join-tambayanph.com-10b981?style=for-the-badge&logoColor=white" alt="TambayanPH"/>
+</a>
+</p>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-## The Toolkit
+---
 
 <div align="center">
+<h2>🛠️ Daily Drivers</h2>
 
-| AI & Dev | Automation | Outreach | Data |
-|:--------:|:----------:|:--------:|:----:|
-| ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | ![GHL](https://img.shields.io/badge/GoHighLevel-FF6B00?style=flat-square&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| ![ComfyUI](https://img.shields.io/badge/ComfyUI-222222?style=flat-square&logoColor=white) | ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white) | ![Instantly](https://img.shields.io/badge/Instantly-5D5DFF?style=flat-square&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) | ![Clay](https://img.shields.io/badge/Clay-000000?style=flat-square&logoColor=white) | ![Apify](https://img.shields.io/badge/Apify-00D1B2?style=flat-square&logoColor=white) |
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,supabase&theme=dark" alt="Core Stack" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/VAPI-5046e5?style=for-the-badge&logoColor=white" alt="VAPI" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
 
 </div>
 
-<br>
-
-## The Path
-
-```
-2015  │  Biology degree, UP. Best thesis. Zero tech skills.
-      │
-2017  │  Started freelancing. Learned how business actually works.
-      │
-2020  │  Content & SEO. Five years of strategy, not just writing.
-      │
-2024  │  Automation architecture. Built systems at scale.
-      │
-Now   │  Building CallView AI. Teaching everything I learn.
-```
-
-<br>
-
-## Open Source
-
-### 🚀 [n8n-autoscaling](https://github.com/judetelan/n8n-autoscaling)
-
-Production-grade Docker autoscaling for n8n. Dynamically scales workers based on Redis queue length — no Kubernetes required.
-
-```
-✓ Auto-scales between min/max workers
-✓ Cloudflare Tunnel integration
-✓ Built-in Puppeteer + Playwright
-✓ Hardened security out of the box
-```
-
-> I document what I learn. No gatekeeping.
-
-<br>
-
 ---
 
 <div align="center">
+<h2>🤝 Let's Connect</h2>
 
-### For Investors
+<p>Building something with voice AI or automation? Let's talk.</p>
 
-CallView AI is raising. If voice AI infrastructure interests you:
+<br>
 
-**[hello@judetelan.com](mailto:hello@judetelan.com)**
+<a href="https://www.linkedin.com/in/benlorenzo/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://callview.ai/">
+<img src="https://img.shields.io/badge/CallView_AI-6366f1?style=for-the-badge&logoColor=white" alt="CallView AI" />
+</a>
+&nbsp;
+<a href="https://tambayanph.com/">
+<img src="https://img.shields.io/badge/TambayanPH-10b981?style=for-the-badge&logoColor=white" alt="TambayanPH" />
+</a>
+
+<br><br>
 
 ---
 
 <br>
 
-*"A hammer doesn't build a house. The carpenter does."*
+<i>"The best AI doesn't replace humans — it makes human connection easier."</i>
 
-*Use the tools. Master them. But never forget that you're the one holding the hammer.*
+<br><br>
 
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0a0a0a&height=100&section=footer)
+<img src="https://komarev.com/ghpvc/?username=BenLorenzoDev&style=flat-square&color=6366f1" alt="Profile views"/>
 
 </div>
