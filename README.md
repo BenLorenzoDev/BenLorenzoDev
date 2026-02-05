@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=200&section=header&text=ben%20lorenzo&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20is%20the%20tool.%20You're%20still%20the%20one%20building.&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Voice+AI+that+keeps+humans+in+the+loop;From+healthcare+VA+to+AI+founder;Building+in+public+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Voice+AI+that+keeps+humans+in+the+loop;From+healthcare+VA+to+AI+founder;Building+in+public+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" /></a>
 
 <br><br>
 
