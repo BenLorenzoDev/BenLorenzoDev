@@ -18,7 +18,11 @@
 
 ---
 
+<div align="center">
+
 ## Hey, I'm Ben 👋
+
+</div>
 
 ```
 I build AI that works with humans, not instead of them.
@@ -30,13 +34,16 @@ That's the path.
 
 ---
 
+<div align="center">
+
 ## Currently Building
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🎙️ CallView AI
+<h3>🎙️ CallView AI</h3>
+
 **Co-Founder** — Voice AI for sales teams
 
 Small businesses miss 62% of calls. We fix that.
@@ -48,9 +55,11 @@ Small businesses miss 62% of calls. We fix that.
 [callview.ai](https://callview.ai/)
 
 </td>
-<td width="50%" valign="top">
+<td width="10%"></td>
+<td width="45%" valign="top">
 
-### 🇵🇭 TambayanPH
+<h3>🇵🇭 TambayanPH</h3>
+
 **Founder** — Filipino automation community
 
 300+ automation builders. Mission-critical systems.
@@ -65,11 +74,13 @@ Small businesses miss 62% of calls. We fix that.
 </tr>
 </table>
 
+</div>
+
 ---
 
-## The Toolkit
-
 <div align="center">
+
+## The Toolkit
 
 | AI & Voice | Automation | Frontend | Backend |
 |:----------:|:----------:|:--------:|:-------:|
@@ -81,7 +92,11 @@ Small businesses miss 62% of calls. We fix that.
 
 ---
 
+<div align="center">
+
 ## The Path
+
+</div>
 
 ```
 2021  │  Healthcare VA. Learned systems, client management, ownership.
@@ -97,7 +112,11 @@ Now   │  Building CallView AI. Running TambayanPH. Teaching what I learn.
 
 ---
 
+<div align="center">
+
 ## Featured Projects
+
+</div>
 
 🚀 **CallView AI** — Voice AI platform for sales teams. Real-time monitoring, human takeover, campaign management.<br>
 `React` `Express` `Vapi.ai` `Supabase` `Redis`
