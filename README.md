@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Gradient Banner -->
-<img src="./banner.svg" alt="Ben Lorenzo Banner" width="100%" />
+<!-- Gradient Banner using capsule-render (no file upload needed) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=200&section=header&text=ben%20lorenzo&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20is%20the%20tool.%20You're%20still%20the%20one%20building.&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
-<br>
-
-<!-- Animated Typing SVG - Complementary color -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&lines=Voice+AI+that+keeps+humans+in+the+loop;From+healthcare+VA+to+AI+founder;Building+in+public+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" /></a>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Voice+AI+that+keeps+humans+in+the+loop;From+healthcare+VA+to+AI+founder;Building+in+public+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -77,7 +75,7 @@ Small businesses miss 62% of calls. We fix that.
 |:----------:|:----------:|:--------:|:-------:|
 | ![Vapi](https://img.shields.io/badge/Vapi-5046e5?style=flat-square&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![Make](https://img.shields.io/badge/Make-6366f1?style=flat-square&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logoColor=white) | ![GoHighLevel](https://img.shields.io/badge/GHL-FF6B35?style=flat-square&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logoColor=white) | ![GHL](https://img.shields.io/badge/GHL-FF6B35?style=flat-square&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 
 </div>
 
@@ -125,7 +123,7 @@ Building something with voice AI or automation? Let's talk.
 
 <br>
 
-<!-- Footer Gradient Banner -->
-<img src="./banner.svg" alt="Footer" width="100%" height="80" style="object-fit: cover; object-position: bottom;" />
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=100&section=footer" width="100%" />
 
 </div>
